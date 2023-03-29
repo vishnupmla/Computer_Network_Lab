@@ -9,3 +9,12 @@ num=$(expr $num + $k)
 n=$(expr $n / 10)
 done
 echo number is $num
+
+
+//output
+//./reverse.sh
+
+
+enter n
+369
+number is 963
