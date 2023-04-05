@@ -4,7 +4,7 @@ read -sp "Enter the Password: " password
 
 
 
-if [[ $username == "user"  && $password == "password" ]]
+if [[ $username == "mca"  && $password == "mca" ]]
 then
   echo -e "\nYou're Logged In\n"
 elif [ $username != "user" ] 
