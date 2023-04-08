@@ -1,0 +1,33 @@
+11) ls -l | less
+
+12)
+i)cp -f file1.txt newfile
+
+ii)cp -n file1.txt newfile
+
+iii)cp -i file1.txt newfile
+
+iv)cp -u file1.txt newfile
+
+v)cp -f file1.txt newfile
+
+vi)ln file1.txt newfile.txt
+
+vii)cp -r dir1 dir5
+
+13)----------------
+
+14)vim testfile1.txt
+
+i)On entering editor
+type ":set number"
+
+ii)press 'i' and type -  Your Name and Address with District and Pincode
+
+iii)press 'esc' and press y to copy the current line
+type '10p' after moving the cursor to a new line.
+
+iv)
+
+15)
+

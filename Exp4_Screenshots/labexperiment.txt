@@ -1,0 +1,30 @@
+echo -e "God! Bless us....\n We are starting shell scripting"
+
+2)man ls
+press '/' and type "alphabetic", press enter.
+
+3) echo "Enter your name";read name; echo "The name entered is $name";
+
+4)mkdir -p dir1/dir2/dir3
+cd dir1/dir2/dir3
+
+5)vi text.tx
+this will create a new text file named text
+press "i" to get into insert mode
+Type contents into the file
+press 'Esc' key to exit insert mode
+type ":wq" to save and exit
+
+6)pwd
+
+7)a)ls -R
+
+b)
+i)ls -v
+ii)ls --sort='time'
+iii)ls --sort='size'
+iv)ls -r
+v)ls -ls
+vi)ls -hs
+
+8)ls > lsoutput.txt
