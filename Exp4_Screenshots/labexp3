@@ -1,0 +1,15 @@
+
+a)tar -czvf mydir.tar.gz dir1
+
+
+b)tar -xzvf mydir.tar.gz -C dir1/dir6
+
+
+c)i)top -o PID
+ii)top -o %CPUD
+
+d)i)ps -t $(tty)
+ii) ps aux
+
+e) df -h
+
